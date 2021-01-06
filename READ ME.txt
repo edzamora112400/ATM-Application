@@ -1,0 +1,11 @@
+Hello, this is my first application made using tkinter and python. It is a
+simple application that anyone can do. If you're reading this I would like
+hear your feedback. I am aware that the code is messy and I know I didn't
+comment anything but I am sure the code is slef explanitory. Again, like I
+said, this is my first application done without following any tutorial and
+only based on my knowledge.
+
+The funds.txt is where the balance or amount of money is saved and where
+the application gets the funds value.
+
+follow me on instagram: @bob_bouhx
